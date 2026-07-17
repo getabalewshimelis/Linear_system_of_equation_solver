@@ -81,7 +81,7 @@ pip install numpy matplotlib
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Linear-System-Solver.git
+git clone https://github.com/getabalewshimelis/Linear_system_of_equation_solver.git
 ```
 
 Open the notebook:
